@@ -1,0 +1,12 @@
+{
+  "version": "2.0.0.0",
+  "releaseNotes": "Catatan pembaruan...",
+  "releasePageUrl": "https://github.com/NanditoDitama/DeskmonUpdater/releases",
+  "platforms": {
+    "windows-x64": {
+      "url": "https://github.com/NanditoDitama/DeskmonUpdater/releases/download/v2.0.0.0/Deskmon-2.0.0.0-win64.zip",
+      "sha256": "<kode_sha256_hasil_package_helper>",
+      "type": "zip"
+    }
+  }
+}
