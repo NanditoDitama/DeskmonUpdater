@@ -1,6 +1,7 @@
 {
   "version": "1.0.3.5",
   "releaseNotes": "Deskmon v1.0.3.5",
+  "releasePageUrl": "https://github.com/NanditoDitama/DeskmonUpdater/releases",
   "platforms": {
     "windows-x64": {
       "url": "https://github.com/NanditoDitama/DeskmonUpdateRepo/releases/download/v1.0.3.5/Deskmon-1.0.3.5-win64.zip",
