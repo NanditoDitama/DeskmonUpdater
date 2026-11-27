@@ -4,7 +4,7 @@
   "releasePageUrl": "https://github.com/NanditoDitama/DeskmonUpdater/releases",
   "platforms": {
     "windows-x64": {
-      "url": "https://github.com/NanditoDitama/DeskmonUpdateRepo/releases/download/v1.0.3.5/Deskmon-1.0.3.5-win64.zip",
+      "url": "https://github.com/NanditoDitama/DeskmonUpdateRepo/releases/download/v2.0.0.0/Deskmon-1.0.3.5-win64.zip",
       "sha256": "4d4e2ffe0735a859fdec73112fcedfbcb47fefca3de08ca33c23c1a4b86d3e2f",
       "type": "zip"
     }
